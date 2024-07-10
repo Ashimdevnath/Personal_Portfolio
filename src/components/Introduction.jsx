@@ -7,16 +7,16 @@ const Introduction = () => {
     <section className="flex flex-col md:flex-row items-center justify-between p-10 bg-white">
       <div className="flex flex-col md:flex-row items-center md:items-start mb-8 md:mb-0 md:mr-8 lg:ml-40">
         <div className="flex flex-col items-center md:items-start mb-4 md:mr-8">
-          <a href="#" className="text-2xl text-gray-700 hover:text-gray-900 mt-2 mb-6 md:block hidden ">
+          <a href="https://www.linkedin.com/in/ashim-devnath/"  target="_blank" className="text-2xl  text-gray-700 hover:text-gray-900 mt-2 mb-6 md:block hidden ">
             <FaLinkedin />
           </a>
-          <a href="#" className="text-2xl text-gray-700 hover:text-gray-900 mb-6 md:block hidden">
+          <a href="https://www.instagram.com/ashim__devnath/"  target="_blank" className="text-2xl text-gray-700 hover:text-gray-900 mb-6 md:block hidden">
             <FaInstagram />
           </a>
-          <a href="#" className="text-2xl text-gray-700 hover:text-gray-900 mb-6 md:block hidden">
+          <a href="https://www.facebook.com/ashim.devnath.566/"  target="_blank" className="text-2xl text-gray-700 hover:text-gray-900 mb-6 md:block hidden">
             <FaFacebook />
           </a>
-          <a href="#" className="text-2xl text-gray-700 hover:text-gray-900 mb-6 md:block hidden">
+          <a href="https://github.com/Ashimdevnath"  target="_blank" className="text-2xl text-gray-700 hover:text-gray-900 mb-6 md:block hidden">
             <FaGithub />
           </a>
         </div>

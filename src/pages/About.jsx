@@ -41,16 +41,16 @@ const About = () => {
             </p>
             
             <div className="flex space-x-4 text-[#FB6542] mb-4">
-              <a href="#" className="text-2xl hover:text-gray-700">
+              <a href="https://www.linkedin.com/in/ashim-devnath/"   target="_blank" className="text-2xl hover:text-gray-700">
                 <FaLinkedin />
               </a>
-              <a href="#" className="text-2xl hover:text-gray-700">
+              <a href="https://www.instagram.com/ashim__devnath/"   target="_blank" className="text-2xl hover:text-gray-700">
                 <FaInstagram />
               </a>
-              <a href="#" className="text-2xl hover:text-gray-700">
+              <a href="https://www.facebook.com/ashim.devnath.566/" target="_blank" className="text-2xl hover:text-gray-700">
                 <FaFacebook />
               </a>
-              <a href="#" className="text-2xl hover:text-gray-700">
+              <a href="https://github.com/Ashimdevnath"  target="_blank" className="text-2xl hover:text-gray-700">
                 <FaGithub />
               </a>
             </div>

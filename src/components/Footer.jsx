@@ -8,16 +8,16 @@ const Footer = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         {/* Social Icons */}
         <div className="flex space-x-4 mb-4 md:mb-0">
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
+          <a href="https://www.facebook.com/ashim.devnath.566/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
             <FaFacebook size={24} />
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
+          <a href="https://x.com/AshimDevnath4" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
             <FaTwitter size={24} />
           </a>
-          <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
+          <a href="https://www.linkedin.com/in/ashim-devnath/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
             <FaLinkedin size={24} />
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
+          <a href="https://github.com/Ashimdevnath" target="_blank" rel="noopener noreferrer" className="text-white hover:text-gray-200">
             <FaGithub size={24} />
           </a>
         </div>

@@ -9,7 +9,7 @@ import Contact from './pages/Contact';
 
 const AppRoutes = () => {
   return (
-    <Router>
+    <Router basename="/Personal_Portfolio">
       <div className="flex flex-col min-h-screen">
         <Navbar />
         <main className="flex-grow">
